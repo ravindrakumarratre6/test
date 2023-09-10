@@ -1,5 +1,0 @@
-{{#user}}
-Name: Ravindra Kumar Ratre
-Skills: HTML, CSS, JS, Next.js,Reactjs, redux-toolkit, Bootstrap, Tailwind, Sass, JQuery, AJAX
-Email: ravindrakumarratre6@gmail.com
-{{/user}}
